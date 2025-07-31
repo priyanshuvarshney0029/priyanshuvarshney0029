@@ -61,14 +61,14 @@
 
 | Most Used Languages | My GitHub Stats |
 |---|---|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lavlesh349&layout=compact&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavlesh349&show_icons=true&theme=tokyonight&cache_seconds=1800) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshuvarshney0029&layout=compact&theme=tokyonight) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshuvarshney0029&show_icons=true&theme=tokyonight&cache_seconds=1800) |
 
 ---
 
 ## 🔥 GitHub Streak:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavlesh349&theme=tokyonight" alt="lavlesh349" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshuvarshney0029&theme=tokyonight" alt="priyanshuvarshney0029" />
 </p>
 
 ---
@@ -76,9 +76,9 @@
 ## 🤝 Connect with Me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/lavlesh-pandey-36691a279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/lavlesh_pandey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pandeylavlesh349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/pandeylavipa0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-<a href="https://github.com/lavlesh349" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/priyanshu-varshney-5a9950250/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Priyanshu_Varshney24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Priyanshu_varshney07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/priyanshuvas3i3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
+<a href="https://github.com/priyanshuvarshney0029" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
